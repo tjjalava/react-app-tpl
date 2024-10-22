@@ -1,0 +1,123 @@
+{
+  "deadlyDiseases": [
+    {
+      "id": 1,
+      "name": "Ebola",
+      "type": "Viral",
+      "fatalityRate": "50-90%",
+      "region": "Africa"
+    },
+    {
+      "id": 2,
+      "name": "Rabies",
+      "type": "Viral",
+      "fatalityRate": "99.9% if untreated",
+      "region": "Worldwide"
+    },
+    {
+      "id": 3,
+      "name": "Malaria",
+      "type": "Parasitic",
+      "fatalityRate": "0.3-2.2%",
+      "region": "Tropical and subtropical regions"
+    },
+    {
+      "id": 4,
+      "name": "Tuberculosis",
+      "type": "Bacterial",
+      "fatalityRate": "45% if untreated",
+      "region": "Worldwide"
+    },
+    {
+      "id": 5,
+      "name": "COVID-19",
+      "type": "Viral",
+      "fatalityRate": "0.1-5% (varies by region and time)",
+      "region": "Worldwide"
+    },
+    {
+      "id": 6,
+      "name": "Cholera",
+      "type": "Bacterial",
+      "fatalityRate": "25-50% if untreated",
+      "region": "Developing countries"
+    },
+    {
+      "id": 7,
+      "name": "Meningococcal meningitis",
+      "type": "Bacterial",
+      "fatalityRate": "50% if untreated",
+      "region": "Worldwide"
+    },
+    {
+      "id": 8,
+      "name": "Dengue fever",
+      "type": "Viral",
+      "fatalityRate": "1% with treatment, up to 20% if untreated",
+      "region": "Tropical and subtropical regions"
+    },
+    {
+      "id": 9,
+      "name": "Anthrax",
+      "type": "Bacterial",
+      "fatalityRate": "20-80% depending on exposure",
+      "region": "Worldwide"
+    },
+    {
+      "id": 10,
+      "name": "Marburg virus disease",
+      "type": "Viral",
+      "fatalityRate": "24-88%",
+      "region": "Africa"
+    },
+    {
+      "id": 11,
+      "name": "Pneumonic Plague",
+      "type": "Bacterial",
+      "fatalityRate": "100% if untreated, 50% with treatment",
+      "region": "Africa, Asia, South America"
+    },
+    {
+      "id": 12,
+      "name": "Creutzfeldt-Jakob Disease",
+      "type": "Prion",
+      "fatalityRate": "100%",
+      "region": "Worldwide"
+    },
+    {
+      "id": 13,
+      "name": "Japanese Encephalitis",
+      "type": "Viral",
+      "fatalityRate": "20-30%",
+      "region": "Asia"
+    },
+    {
+      "id": 14,
+      "name": "Yellow Fever",
+      "type": "Viral",
+      "fatalityRate": "15-50%",
+      "region": "Africa, Central and South America"
+    },
+    {
+      "id": 15,
+      "name": "Hantavirus Pulmonary Syndrome",
+      "type": "Viral",
+      "fatalityRate": "38%",
+      "region": "Americas"
+    },
+    {
+      "id": 16,
+      "name": "Naegleria fowleri (Brain-eating amoeba)",
+      "type": "Parasitic",
+      "fatalityRate": "97%",
+      "region": "Worldwide, mostly in warm freshwater"
+    },
+    {
+      "id": 17,
+      "name": "Acute Radiation Syndrome",
+      "type": "Environmental",
+      "fatalityRate": "100% at high doses",
+      "region": "Worldwide (rare)"
+    }
+  ]
+}
